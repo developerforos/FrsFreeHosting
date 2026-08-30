@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft & Script Hosting Panel",
+  "description": "A comprehensive control panel to deploy Python/Node.js scripts and manage, configure, and run Minecraft servers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
